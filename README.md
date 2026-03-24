@@ -1,36 +1,30 @@
-# digital-literacy-project
+# DIGITAL LITERACY PROJECT 
 
 Name: Saloni Teotia
 
 Registration No.: 25MIM10155
 
-Branch: Integrated MTech
-
 Course Code: CSE0001
 
-Date: 25 March 2026
+## Project Overview
+This project is based on the concept of Digital Literacy and is designed to help students develop essential skills required to navigate the digital world effectively and responsibly. The project is divided into five major tasks, each focusing on a different aspect of digital literacy. All tasks are compiled and organized in a GitHub repository, which serves as a digital portfolio of my work. Along with this, a detailed project report documents my learning, observations, and reflections from each task.
 
-## INTRODUCTION
-In today’s digital era, it is vital for students to be digitally literate in order to succeed academically and professionally in life. As a Student Digital Ambassador, I am tasked with the duty of ensuring that students grasp and comprehend the significance of digital literacy and its application in their daily lives, including professional communication and online safety. This project is based on raising awareness about digital literacy, and I have accomplished this by undertaking various activities such as creating an infographic, designing a digital portfolio, exploring various online platforms, communicating professionally, and understanding cybercrime, among others. This project has not only helped me improve my knowledge of digital literacy, but I have also become aware of various issues related to online safety, communication, and professionalism.
+Overall, this project enhances technical skills, communication abilities, and awareness of online safety, preparing students for academic growth and future professional opportunities in a digital environment.
 
-## Task 1: Infographic Write-up
-For this task, I was required to design an infographic on digital literacy. I used Canva to design a one-page infographic on the concept of digital literacy. I included four main sections on what digital literacy entails, what tools students need to know, safe usage of the internet, and email etiquette. I used simple icons to make the infographic attractive. I was able to design an infographic that explained what digital literacy entails. Digital literacy entails not just knowing how to use technology but also knowing how to use technology responsibly. I found the most interesting part of the task to be designing the layout of the infographic. I found it challenging to make the information concise yet informative. This task has helped me realize the importance of visual communication in disseminating information.
+## Module 1: Hands-on Training on Presentation Software
+In this topic, students will be introduced to what digital literacy is all about. Emphasis will be given on creating a visually appealing presentation using various tools such as Canva, Prezi, Miro, Cooltext, and GIF. This will enhance students’ communication skills.
 
-## Task 2: Digital Portfolio Write-up
+## Module 2: Building a Digital Portfolio
+Students learn to create a professional online presence using platforms such as LinkedIn, GitHub, Kaggle, and Stack Overflow. These platforms help showcase skills, projects, and achievements, making them important for internships and career opportunities.
 
+## Module 3: Programming & Collaborative Learning Platforms
+This module covers tools like Google Workspace (Docs, Slides, Sheets, Forms) for teamwork and productivity. It also introduces coding platforms such as HackerRank, CodeChef, and CodeTantra to improve programming and problem-solving skills. 
 
-## Task 3: Platforms Write-up
-For this task, I used two different platforms: HackerRank and Google Forms. On HackerRank, I attempted a coding problem suitable for a beginner. This was helpful as I got an idea about coding problem-solving skills. This was a great experience as I got to know about coding platforms. 
+## Module 4: Email Etiquette & Social Media Etiquette
+This section focuses on professional communication. Students learn how to write structured, polite emails, understand workplace etiquette, and maintain responsible behavior on social media to build a positive digital image.
 
-In the second part of this task, I created a Google Form containing questions about digital literacy. I included multiple-choice questions and short-answer questions. I also got a chance to view responses in Google Sheets. 
+## Module 5: Cyber Crime & Financial Fraud Awareness
+This topic helps students learn about various types of cybercrimes, such as financial fraud and threats to personal data, and also informs them about prevention and safe practices to help them keep themselves safe in the virtual world.
 
-These platforms are extremely helpful for academic purposes. One can use coding platforms to enhance coding skills, whereas Google Forms can be used to take surveys, quizzes, etc. This task was helpful as I got to know about such platforms, which I can use throughout my academic journey.
-
-## Task 4: Communication Write-up
-One example of poor digital communication is when an unprofessional email is sent to a professor, for instance, without a subject line, an informal tone, or an inappropriate greeting. This may give a wrong impression and may cause the request to be ignored.
-
-For instance, when a student sends an email to a professor saying “Send me notes ASAP,” it may be considered rude. On the contrary, an appropriate email should be sent with a polite tone, request, and structure.
-
-This task has taught me the significance of professional communication, especially in emails and social media. This type of communication may help in building a positive image.
-
-## Task 5: Cybercrime Write-up
+## Google form link
+https://docs.google.com/forms/d/e/1FAIpQLSdOVDVu0ABpHjwOLVGXlM7d3BTkgeJ3K5D5zDIK4DE5fPxbyQ/viewform
