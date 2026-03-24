@@ -2,7 +2,7 @@
 
 ## PART-B : PREVENTION CHECKLIST
 
-STAY SAFE ONLINE
+### STAY SAFE ONLINE
 
 1) Enable 2-factor authentication (2FA) on email, social media, and banking apps.
 
@@ -16,9 +16,11 @@ STAY SAFE ONLINE
 
 6) Ensure the receiver's name is correct before confirming the transaction.
 
-7) If Something Feels Wrong: Immediately block your bank account/UPI app if you suspect fraud. Save screenshots and evidence of suspicious messages.
+7) If Something Feels Wrong immediately block your bank account/UPI app if you suspect fraud and save screenshots and evidence of suspicious messages.
 
-8) Report Cybercrime Immediately:
+8) Download apps only from official stores (Play Store/App Store).
+
+#### Report Cybercrime Immediately:
 
    National Cyber Crime Portal: https://cybercrime.gov.in
 
