@@ -11,6 +11,8 @@ This project is based on the concept of Digital Literacy and is designed to help
 
 Overall, this project enhances technical skills, communication abilities, and awareness of online safety, preparing students for academic growth and future professional opportunities in a digital environment.
 
+## Module Summaries
+
 ### Module 1: Hands-on Training on Presentation Software
 This topic will introduce students to digital literacy and will specifically be used to develop students’ skills in presenting their ideas using various digital tools like Canva, Prezi, and Miro. It will also introduce students to tools like Cooltext and GIFs to add visual appeal and creativity to their presentations. Students will be able to learn how to present their ideas in an attractive and creative way. This topic will improve students’ creativity and visual communication skills to present their ideas in a presentable and attractive manner.
 
